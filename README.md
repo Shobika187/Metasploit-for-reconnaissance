@@ -71,6 +71,11 @@ Use the search option to look for an auxiliary module to scan and enumerate the 
 
 
 use 11 Or: use auxiliary/scanner/mysql/mysql_version
+## OUTPUT:
+![image](https://github.com/Shobika187/Metasploit-for-reconnaissance/assets/94508142/da5fc927-3c04-474b-96a2-6e49142abc0f)
+Use the set rhosts command to set the parameter and run the module, as follows:
+
+
 
 ## OUTPUT:
 ![image](https://github.com/Shobika187/Metasploit-for-reconnaissance/assets/94508142/3b322d7c-a650-4cd6-ab2d-222dfd91279b)
